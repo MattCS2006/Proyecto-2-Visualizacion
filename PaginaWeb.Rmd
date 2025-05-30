@@ -1,0 +1,32 @@
+---
+title: "Grafo de cursos de Ingenieria Agrícola"
+output: html_document
+date: "2025-05-30"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(visNetwork)
+```
+
+## *Grafo*
+
+***Este es un gráfico que representa la carrera de ingeniería agrícola en el Instituto Tecnológico de Costa Rica, se muestra sus diferentes materias, tanto por semestre, sus horas de estudio, créditos, adempas sus requisitos y correquisitos entre materias.***
+
+```{r grafo, echo=FALSE}
+
+source("Grafico.R", local = knitr::knit_global())
+```
+
+| Color       | Horas              |
+|-------------|--------------------|
+| lightblue   | ≤ 2                |
+| skyblue     | ≤ 4                |
+| deepskyblue | ≤ 6                |
+| dodgerblue  | \> 6               |
+| dot         | primeros bloques   |
+| square      | bloques superiores |
+| Grupo       | Área disciplinaria |
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
