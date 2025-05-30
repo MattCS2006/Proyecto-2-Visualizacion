@@ -1,0 +1,67 @@
+id,nombre,horas,bloque,creditos,area
+CI0200,EXÁMEN DIAGNÓSTICO,0,0,0,Formación Básica/General
+CI0202,INGLÉS BÁSICO,3,0,2,Formación Básica/General
+BI1103,BIOLOGÍA AGRÍCOLA,3,1,3,Biología y Suelo
+BI1104,LABORATORIO DE BIOLOGÍA AGRÍCOLA,2,1,1,Biología y Suelo
+CI1106,COMUNICACIÓN ESCRITA,6,1,2,Formación Básica/General
+CI1230,INGLÉS I,6,1,2,Formación Básica/General
+IA1002,FUNDAMENTOS DE INGENIERÍA AGRÍCOLA,2,1,1,Formación Básica/General
+MA0101,MATEMÁTICA GENERAL,5,1,2,Matemáticas y Estadística
+QU1102,LABORATORIO DE QUÍMICA BÁSICA I,2,1,1,Física y Química
+QU1106,QUÍMICA BÁSICA I,2,1,3,Física y Química
+CI1107,COMUNICACIÓN ORAL,3,2,1,Formación Básica/General
+CI1231, INGLÉS II,3,2,2,Formación Básica/General
+CS1502,INTRODUCCIÓN A LA TÉCNICA CIENCIA Y TECNOLOGÍA,2,2,1,Formación Básica/General
+CS3305,LEGISLACIÓN AGRÍCOLA,3,2,2,Gestión y Humanidades
+IA1203,DIBUJO TÉCNICO,4,2,3,Diseño y Dibujo Técnico
+MA1102,CÁLCULO DIFERENCIAL E INTEGRAL,5,2,4,Matemáticas y Estadística
+QU1104,LABORATORIO DE QUÍMICA BÁSICA II,2,2,1,Física y Química
+QU1107,QUÍMICA BÁSICA II,4,2,3,Física y Química
+FI1101,FÍSICA GENERAL I,4,3,3,Física y Química
+FI1201,LABORATORIO FÍSICA GENERAL I,2,3,1,Física y Química
+IA2101,EDAFOLOGÍA,3,3,3,Biología y Suelo
+IA2105,LABORATORIO DE EDAFOLOGÍA,3,3,2,Biología y Suelo
+IA2204,PROGRAMACIÓN APLICADA,4,3,3,Programación y Computación
+IA3302,TOPOGRAFÍA,5,3,3,Mecánica e Ingeniería de Máquinas
+MA1103,CÁLCULO Y ALGEBRA LINEAL,4,3,4,Matemáticas y Estadística
+SE1100,ACTIVIDAD CULTURAL I,2,3,0,Formación Básica/General
+FH1000,CENTROS DE FORMACIÓN HUMANÍSTICA,2,4,0,Formación Básica/General
+FI2103,FÍSICA GENERAL III,4,4,3,Física y Química
+IA2106,SISTEMAS DE PRODUCCIÓN AGRÍCOLA,5,4,4,Biología y Suelo
+IA2202,ESTÁTICA,4,4,3,Mecánica e Ingeniería de Máquinas
+IA3303,APLICACIONES TOPOGRÁFICAS,5,4,3,Mecánica e Ingeniería de Máquinas
+MA2105,ECUACIONES DIFERENCIALES,4,4,4,Matemáticas y Estadística
+SE1200,ACTIVIDAD DEPORTIVA I,2,4,0,Formación Básica/General
+IA3202,ESTADÍSTICA APLICADA,4,5,3,Matemáticas y Estadística
+IA3206,RESISTENCIA DE MATERIALES,4,5,3,Mecánica e Ingeniería de Máquinas
+IA3208,ELECTRICIDAD,4,5,3,Electricidad y Electrificación
+IA3212,MECÁNICA DE FLUIDOS APLICADA,5,5,3,Mecánica e Ingeniería de Máquinas
+MA3106,MÉTODOS NUMÉRICOS,4,5,4,Matemáticas y Estadística
+SE1400,ACTIVIDAD CULTURAL-DEPORTIVA,2,5,0,Formación Básica/General
+CM2103,TERMODINÁMICA,4,6,3,Física y Química
+IA3105,RELACIÓN SUELO-AGUA-PLANTA,4,6,3,Biología y Suelo
+IA3203,HIDROLOGÍA,4,6,3,Ingeniería del Agua e Hidráulica
+IA3210,LABORATORIO DE HIDRÁULICA,2,6,1,Ingeniería del Agua e Hidráulica
+IA3213,HIDRÁULICA DE CANALES,4,6,3,Ingeniería del Agua e Hidráulica
+IA3401,ELEMENTOS Y MECANISMOS DE MÁQUINAS AGRÍCOLAS,3,6,2,Mecánica e Ingeniería de Máquinas
+IA5601,PROTECCIÓN AMBIENTAL,4,6,3,Gestión y Humanidades
+CS3404,SEMINARIO DE ÉTICA PARA LA INGENIERÍA,5,7,2,Gestión y Humanidades
+IA4307,DISEÑO ESTRUCTURAS HIDRÁULICAS,4,7,3,Ingeniería del Agua e Hidráulica
+IA4311,RIEGO SUPERFICIAL,4,7,3,Ingeniería del Agua e Hidráulica
+IA4312,DRENAJE SUPERFICIAL,3,7,2,Ingeniería del Agua e Hidráulica
+IA4402,MOTORES DE COMBUSTIÓN INTERNA,4,7,3,Mecánica e Ingeniería de Máquinas
+IA4407,TRACTORES AGRÍCOLAS,3,7,2,Mecánica e Ingeniería de Máquinas
+PI5516,INGENIERÍA ECONÓMICA,4,7,3,Gestión y Humanidades
+CS4402,SEMINARIO DE ESTUDIOS COSTARRICENSES,3,8,2,Formación Básica/General
+IA3501,ELECTRIFICACIÓN RURAL,5,8,3,Electricidad y Electrificación
+IA4313,RIEGO A PRESIÓN,4,8,3,Ingeniería del Agua e Hidráulica
+IA4314,DRENAJE SUB-SUPERFICIAL,4,8,3,Ingeniería del Agua e Hidráulica
+IA4315,"MANEJO DE SUELOS, AGUAS Y DISEÑO DE OBRAS DE CONSERVACIÓN",4,8,3,Ingeniería del Agua e Hidráulica
+IA4403,MECANIZACIÓN AGRÍCOLA,3,8,2,Mecánica e Ingeniería de Máquinas
+IA5402,LABORATORIO DE TRACTORES Y MECANIZACIÓN,3,8,2,Mecánica e Ingeniería de Máquinas
+AE4208,DESARROLLO DE EMPRENDEDORES,4,9,4,Gestión y Humanidades
+IA4004,ELECTIVA I,4,9,3,Graduación / Electivas
+IA4408,TALLER DE DISEÑO,18,9,6,Diseño y Dibujo Técnico
+SO4604,SEGURIDAD Y SALUD OCUPACIONAL,3,9,3,Gestión y Humanidades
+IA3004,TRABAJO FINAL DE GRADUACIÓN,0,10,9,Graduación / Electivas
+IA4005,ELECTIVA II,4,10,3,Graduación / Electivas
