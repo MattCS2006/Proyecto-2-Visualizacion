@@ -61,8 +61,8 @@ edges_vis <- bind_rows(aristas_vis, coreq)
 
 #Grafico
 library(visNetwork)
-print(
-visNetwork(nodos_vis, edges_vis) %>%
+
+grafico <- visNetwork(nodos_vis, edges_vis) %>%
   visEdges(smooth = FALSE) %>%
   visNodes(font = list(size = 14)) %>%
   visOptions(
@@ -72,7 +72,9 @@ visNetwork(nodos_vis, edges_vis) %>%
   ) %>%
   visInteraction(navigationButtons = TRUE) %>%
   visLayout(randomSeed = 123)
-)
+
+grafico  # Grafico para ponerlo bien en el RMarkdown
+
 
 #Nota: ya quedo con mas
 

@@ -15,8 +15,8 @@ library(visNetwork)
 ***Este es un gráfico que representa la carrera de ingeniería agrícola en el Instituto Tecnológico de Costa Rica, se muestra sus diferentes materias, tanto por semestre, sus horas de estudio, créditos, adempas sus requisitos y correquisitos entre materias.***
 
 ```{r grafo, echo=FALSE}
-
-source("Grafico.R", local = knitr::knit_global())
+grafico <- source("Grafico.R", local = TRUE)$value
+grafico
 ```
 
 | Color          | Horas   |
