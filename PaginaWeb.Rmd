@@ -19,14 +19,36 @@ library(visNetwork)
 source("Grafico.R", local = knitr::knit_global())
 ```
 
-| Color       | Horas              |
-|-------------|--------------------|
-| lightblue   | ≤ 2                |
-| skyblue     | ≤ 4                |
-| deepskyblue | ≤ 6                |
-| dodgerblue  | \> 6               |
-| dot         | primeros bloques   |
-| square      | bloques superiores |
-| Grupo       | Área disciplinaria |
+| Color          | Horas   |
+|----------------|---------|
+| Rosa claro     | 0       |
+| Naranja claro  | 1       |
+| Amarillo claro | 2       |
+| Verde menta    | 3       |
+| Celeste medio  | 4       |
+| Celeste oscuro | 5       |
+| Azul profundo  | 6       |
+| Gris           | 7 o más |
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+| Figura    | Bloque  |
+|-----------|---------|
+| Punto     | 1       |
+| Cuadrado  | 2       |
+| Triángulo | 3       |
+| Estrella  | 4       |
+| Diamante  | 5       |
+| Elipse    | 6       |
+| Caja      | 7 o más |
+
+| Tipo de relación | Tipo de línea |
+|------------------|---------------|
+| Requisito        | Flecha        |
+| Correquisito     | Discontinua   |
+
+**Nota:** El tamaño de cada nodo es determinado por su cantidad de créditos.
+
+**Hecho por:**
+
+-   Ian Ugalde.
+
+-   Matthew Cordero.
